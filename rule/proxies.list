@@ -1,4 +1,4 @@
-[Rule]
+# (DNS Cache Pollution)
 DOMAIN-SUFFIX,patchwork.kernel.org,Proxies
 DOMAIN-SUFFIX,twitter.com,Proxies
 DOMAIN-SUFFIX,carbonads.net,Proxies
