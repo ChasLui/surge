@@ -1,0 +1,43 @@
+[Rule]
+DOMAIN-SUFFIX,patchwork.kernel.org,Proxies
+DOMAIN-SUFFIX,twitter.com,Proxies
+DOMAIN-SUFFIX,carbonads.net,Proxies
+DOMAIN-SUFFIX,nimbusweb.me,Proxies
+DOMAIN-SUFFIX,pgncs.notion.so,Proxies
+DOMAIN-SUFFIX,intercom.io,Proxies
+DOMAIN-SUFFIX,intercom.io,Proxies
+DOMAIN-SUFFIX,loggly.com,Proxies
+DOMAIN-SUFFIX,notion.so,Proxies
+DOMAIN-SUFFIX,openjdk.java.net,Proxies // jdk
+DOMAIN-SUFFIX,s3.amazonaws.com,Proxies // aws
+DOMAIN-SUFFIX,google.com,Proxies // google
+DOMAIN-SUFFIX,githubusercontent.com,Proxies // github
+DOMAIN-SUFFIX,googleusercontent.com,Proxies // google
+DOMAIN-SUFFIX,figma.com,Proxies // figma
+DOMAIN-SUFFIX,googletagmanager.com,Proxies // google
+DOMAIN-SUFFIX,githubapp.com,Proxies // github
+DOMAIN-SUFFIX,adsymptotic.com,Proxies // figma
+DOMAIN-SUFFIX,githubassets.com,Proxies // github
+DOMAIN-SUFFIX,nssurge.com,Proxies
+DOMAIN-SUFFIX,baidu.com,DIRECT
+DOMAIN-SUFFIX,gstatic.com,Proxies // docker
+DOMAIN-SUFFIX,fontawesome.com,Proxies // docker
+DOMAIN-SUFFIX,marketo.net,Proxies // docker
+DOMAIN-SUFFIX,segment.com,Proxies // docker
+DOMAIN-SUFFIX,docker.com,Proxies // docker
+DOMAIN-SUFFIX,wp.com,Proxies // docker
+DOMAIN-SUFFIX,redditstatic.com,Proxies // redit
+DOMAIN-SUFFIX,adnxs.com,Proxies // redit
+DOMAIN-SUFFIX,casalemedia.com,Proxies // redit
+DOMAIN-SUFFIX,pubmatic.com,Proxies // redit
+DOMAIN-SUFFIX,criteo.com,Proxies // redit
+DOMAIN-SUFFIX,rlcdn.com,Proxies // redit
+DOMAIN-SUFFIX,quantserve.com,Proxies // redit
+DOMAIN-SUFFIX,scorecardresearch.com,Proxies // redit
+DOMAIN-SUFFIX,turn.com,Proxies // redit
+DOMAIN-SUFFIX,rfihub.com,Proxies // redit
+DOMAIN-SUFFIX,openx.net,Proxies // redit
+DOMAIN-SUFFIX,bttrack.com,Proxies // redit
+DOMAIN-SUFFIX,districtm.io,Proxies // redit
+DOMAIN-SUFFIX,bidswitch.net,Proxies // redit
+DOMAIN-SUFFIX,google.com.hk,Proxies // google
