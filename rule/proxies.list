@@ -45,3 +45,5 @@ DOMAIN-SUFFIX,lanhuapp.com,DIRECT // lanhu
 DOMAIN-SUFFIX,apple.com,Proxies // apple
 DOMAIN-SUFFIX,apple.com.cn,DIRECT // apple
 DOMAIN-SUFFIX,cdn-apple.com,Proxies // apple
+DOMAIN-SUFFIX,feishucdn.com,DIRECT // feishu
+DOMAIN-SUFFIX,snssdk.com,DIRECT // feishu
