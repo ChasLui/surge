@@ -48,3 +48,5 @@ DOMAIN-SUFFIX,feishucdn.com,DIRECT // feishu
 DOMAIN-SUFFIX,snssdk.com,DIRECT // feishu
 DOMAIN-SUFFIX,renfei.org,Proxies
 DOMAIN-SUFFIX,claritywallpaper.com,Proxies
+DOMAIN-SUFFIX,vuetifyjs.com,Proxies
+DOMAIN-SUFFIX,materialdesignicons.com,Proxies
